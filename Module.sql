@@ -7,3 +7,5 @@ source vendor/HTTP/src/procedures/Request.sql
 source vendor/HTTP/src/procedures/Response.sql
 
 delimiter ;
+
+source vendor/HTTP/tests/Integration.sql
